@@ -1,3 +1,3 @@
 # heatwallet
 
-Current latest version 1.0.16, with heatledger 0.9.29
+Current latest version 1.0.17, with heatledger 1.0.0-b1
