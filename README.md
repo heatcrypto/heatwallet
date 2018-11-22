@@ -1,10 +1,10 @@
-# Get started with HEAT Wallet 2.8.0
+# Get started with HEAT Wallet 2.8.1
 
-Current latest version 2.8.0, with heatledger 2.5.3
+Current latest version 2.8.1, with heatledger 2.5.3
 
 November 2018 | Provided to you by the developers of Heat Ledger Ltd - creators of the HEAT cryptocurrency.
 
-We are proud to present you with version 2.8.0 of our Desktop HEAT Wallet.
+We are proud to present you with version 2.8.1 of our Desktop HEAT Wallet.
 
 Your fully functional wallet for HEAT, Bitcoin, FIMK and Ethereum (with partial ERC20 support).
 
@@ -50,15 +50,15 @@ Linux users download the zip file and extract to a location of your choice. Run 
 
 HEAT Wallet (full version - includes HEAT p2p server)
 
-  - Windows [Heatwallet_Setup_2.8.0.exe](https://github.com/Heat-Ledger-Ltd/heatwallet/releases/download/v2.8.0/Heatwallet_Setup_2.8.0.exe)
-  - OSX [Heatwallet_MacOS_2.8.0.zip](https://github.com/Heat-Ledger-Ltd/heatwallet/releases/download/v2.8.0/Heatwallet_MacOS_2.8.0.zip)
-  - Linux [Heatwallet_Linux_2.8.0.zip](https://github.com/Heat-Ledger-Ltd/heatwallet/releases/download/v2.7.0/Heatwallet_Linux_2.8.0.zip)
+  - Windows [Heatwallet_Setup_2.8.1.exe](https://github.com/Heat-Ledger-Ltd/heatwallet/releases/download/v2.8.1/Heatwallet_Setup_2.8.1.exe)
+  - OSX [Heatwallet_MacOS_2.8.1.zip](https://github.com/Heat-Ledger-Ltd/heatwallet/releases/download/v2.8.1/Heatwallet_MacOS_2.8.1.zip)
+  - Linux [Heatwallet_Linux_2.8.1.zip](https://github.com/Heat-Ledger-Ltd/heatwallet/releases/download/v2.7.0/Heatwallet_Linux_2.8.1.zip)
 
 HEAT Client (light version)
 
-  - Windows [Heatclient_Setup_2.8.0.exe](https://github.com/Heat-Ledger-Ltd/heat-ui/releases/download/v2.8.0/Heatclient_Setup_2.8.0.exe)
-  - OSX [Heatclient_MacOS_2.8.0.zip](https://github.com/Heat-Ledger-Ltd/heat-ui/releases/download/v2.8.0/Heatclient_MacOS_2.8.0.zip)
-  - Linux [Heatclient_Linux_2.8.0.zip](https://github.com/Heat-Ledger-Ltd/heat-ui/releases/download/v2.8.0/Heatclient_Linux_2.8.0.zip)
+  - Windows [Heatclient_Setup_2.8.1.exe](https://github.com/Heat-Ledger-Ltd/heat-ui/releases/download/v2.8.1/Heatclient_Setup_2.8.1.exe)
+  - OSX [Heatclient_MacOS_2.8.1.zip](https://github.com/Heat-Ledger-Ltd/heat-ui/releases/download/v2.8.1/Heatclient_MacOS_2.8.1.zip)
+  - Linux [Heatclient_Linux_2.8.1.zip](https://github.com/Heat-Ledger-Ltd/heat-ui/releases/download/v2.8.1/Heatclient_Linux_2.8.1.zip)
 
 ### Application Settings
 
