@@ -24,6 +24,10 @@ HEAT wallet is a `real` wallet for HEAT, Bitcoin and Ethereum. Your funds are ke
 
 ## Installation
 
+NOTE: To install and run the optional included heatledger server (full node) you need Java JDK 1.8 or higher installed. Note that JDK is different from standard java distributions.
+
+To install JDK on Ubuntu use sudo apt-get install default-jdk package. For other platforms please look here http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+
 Our wallet desktop software is available in two flavors;
 
   1. HEAT Wallet - The full version (**with** HEAT cryptocurrency server, you can operate your own server node, be part of the p2p network and mine blocks)
