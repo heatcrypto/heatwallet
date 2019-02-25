@@ -52,7 +52,7 @@ HEAT Wallet (full version - includes HEAT p2p server)
 
   - Windows [Heatwallet_Setup_2.8.1.exe](https://github.com/Heat-Ledger-Ltd/heatwallet/releases/download/v2.8.1/Heatwallet_Setup_2.8.1.exe)
   - OSX [Heatwallet_MacOS_2.8.1.zip](https://github.com/Heat-Ledger-Ltd/heatwallet/releases/download/v2.8.1/Heatwallet_MacOS_2.8.1.zip)
-  - Linux [Heatwallet_Linux_2.8.1.zip](https://github.com/Heat-Ledger-Ltd/heatwallet/releases/download/v2.7.0/Heatwallet_Linux_2.8.1.zip)
+  - Linux [Heatwallet_Linux_2.8.1.zip](https://github.com/Heat-Ledger-Ltd/heatwallet/releases/download/v2.8.1/Heatwallet_Linux_2.8.1.zip)
 
 HEAT Client (light version)
 
