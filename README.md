@@ -1,4 +1,4 @@
-# Get started with HEAT Wallet 2.8.1
+# Get started with HEAT Wallet 2.9.0
 
 Current latest version 2.9.0, with heatledger 2.5.4
 
