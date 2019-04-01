@@ -1,12 +1,12 @@
 # Get started with HEAT Wallet 2.8.1
 
-Current latest version 2.8.1, with heatledger 2.5.3
+Current latest version 2.9.0, with heatledger 2.5.4
 
-November 2018 | Provided to you by the developers of Heat Ledger Ltd - creators of the HEAT cryptocurrency.
+March 2019 | Provided to you by the developers of Heat Ledger Ltd - creators of the HEAT cryptocurrency.
 
-We are proud to present you with version 2.8.1 of our Desktop HEAT Wallet.
+We are proud to present you with version 2.9.0 of our Desktop HEAT Wallet.
 
-Your fully functional wallet for HEAT, Bitcoin, FIMK and Ethereum (with partial ERC20 support).
+Your fully functional wallet for HEAT, Bitcoin, FIMK and Ethereum, NXT and ARDOR (with partial ERC20 support).
 
   - with integrated HEAT Asset Exchange.
   - with integrated HEAT block explorer
