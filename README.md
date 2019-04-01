@@ -59,7 +59,7 @@ Linux users download the zip file and extract to a location of your choice. Run 
 HEAT Wallet (full version - includes HEAT p2p server)
 
   - Windows [Heatwallet_Setup_2.9.0.exe](https://github.com/Heat-Ledger-Ltd/heatwallet/releases/download/v2.9.0/Heatwallet_Setup_2.9.0.exe)
-  - OSX [Heatwallet_MacOS_2.9.0.zip](https://github.com/Heat-Ledger-Ltd/heatwallet/releases/download/v2.8.1/Heatwallet_MacOS_2.9.0.zip)
+  - OSX [Heatwallet_MacOS_2.9.0.zip](https://github.com/Heat-Ledger-Ltd/heatwallet/releases/download/v2.9.0/Heatwallet_MacOS_2.9.0.zip)
   - Linux [Heatwallet_Linux_2.9.0.zip](https://github.com/Heat-Ledger-Ltd/heatwallet/releases/download/v2.9.0/Heatwallet_Linux_2.9.0.zip)
 
 HEAT Client (light version)
