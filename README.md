@@ -1,34 +1,16 @@
-# Get started with HEAT Wallet 2.9.0
+## Get started with HEAT Wallet 2.9.0
 
-Notable server changes
+Current latest version 2.9.0, with heatledger 2.5.4
 
-Added signaling server to provide peer-to-peer messaging via WebRTC technology. The basic version of the signaling server supports central signaling host with the following features:
+March 2019 | Provided to you by the developers of Heat Ledger Ltd - creators of the HEAT cryptocurrency.
 
-- Off-chain messaging, data transtmitted and stored encrypted on local device (sender & receiver) only
-- P2P direct connect from client to client after signaling channel creation
-- prevent MITM attacks via encryption signaling data (on client side) by users public/private keys. Server cannot recognize any client WebRTC data after signaling channel creation
+We are proud to present you with version 2.9.0 of the Desktop HEAT Wallet.
 
-- Online trigger with accept / decline confirmation for incoming connect requests
-Other updates:
-- discard chart and market updates when blockchain is downloading and height is far from peers height;
-- fix sql select transactions
+Your fully functional wallet for HEAT, Bitcoin, FIMK, NXT, ARDOR and Ethereum (with partial ERC20 support).
 
-Notable changes in Heatwallet client:
-
-- Added company node data source and failover mechanism for Bitcoin client side wallet
-- Added local payment message storage (encrypted)
-- Removed trollbox
-- Added NXT support for client side wallet
-- Added certified NXT asset
-- Enabled NXT deposits (delay of up to 24 hours for now)
-- Standby readiness for ARDR client side wallet deployment
-- improved failover config options
-- fixed BTC send bug
-- speedup of wallet screen handling
-- enabled Ardor client side wallet
-- enabled Ignis Chain DEX access. Access you ARDR account first, then DEX screen
-- enabled BTC/ARDR market
-- prepared BTC withdrawal automation system and NXT / ARDR deposit automation
+with integrated HEAT Asset Exchange.
+with integrated HEAT block explorer
+with embeded HEAT p2p server
 
 ## Tldr;
 
