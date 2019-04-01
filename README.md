@@ -8,9 +8,9 @@ We are proud to present you with version 2.9.0 of the Desktop HEAT Wallet.
 
 Your fully functional wallet for HEAT, Bitcoin, FIMK, NXT, ARDOR and Ethereum (with partial ERC20 support).
 
-with integrated HEAT Asset Exchange.
-with integrated HEAT block explorer
-with embeded HEAT p2p server
+- with integrated HEAT Asset Exchange
+- with integrated HEAT block explorer
+- with embeded HEAT p2p server
 
 ## Tldr;
 
