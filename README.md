@@ -6,7 +6,7 @@ July 2019 | Provided to you by the developers of Heat Ledger Ltd - creators of t
 
 We are proud to present you with version 3.0.0 of the Desktop HEAT Wallet.
 
-Your fully functional wallet for HEAT, Bitcoin, FIMK, NXT, ARDOR and Ethereum (with partial ERC20 support).
+Your fully functional wallet for HEAT, Bitcoin, FIMK, NXT, ARDOR and Ethereum (with partial ERC20 support). Experimental IOTA support.
 
 - with integrated HEAT Asset Exchange
 - with integrated HEAT block explorer
@@ -58,15 +58,15 @@ Linux users download the zip file and extract to a location of your choice. Run 
 
 HEAT Wallet (full version - includes HEAT p2p server)
 
-  - Windows [Heatwallet_Setup_2.9.0.exe](https://github.com/Heat-Ledger-Ltd/heatwallet/releases/download/v2.9.0/Heatwallet_Setup_2.9.0.exe)
-  - OSX [Heatwallet_MacOS_2.9.0.zip](https://github.com/Heat-Ledger-Ltd/heatwallet/releases/download/v2.9.0/Heatwallet_MacOS_2.9.0.zip)
-  - Linux [Heatwallet_Linux_2.9.0.zip](https://github.com/Heat-Ledger-Ltd/heatwallet/releases/download/v2.9.0/Heatwallet_Linux_2.9.0.zip)
+  - Windows [Heatwallet_Setup_3.0.0.exe](https://github.com/Heat-Ledger-Ltd/heatwallet/releases/download/v3.0.0/Heatwallet_Setup_3.0.0.exe)
+  - OSX [Heatwallet_MacOS_3.0.0.zip](https://github.com/Heat-Ledger-Ltd/heatwallet/releases/download/v2.9.0/Heatwallet_MacOS_3.0.0.zip)
+  - Linux [Heatwallet_Linux_3.0.0.zip](https://github.com/Heat-Ledger-Ltd/heatwallet/releases/download/v3.0.0/Heatwallet_Linux_3.0.0.zip)
 
 HEAT Client (light version)
 
-  - Windows [Heatclient_Setup_2.9.0.exe](https://github.com/Heat-Ledger-Ltd/heat-ui/releases/download/v2.9.0/Heatclient_Setup_2.9.0.exe)
-  - OSX [Heatclient_MacOS_2.9.0.zip](https://github.com/Heat-Ledger-Ltd/heat-ui/releases/download/v2.9.0/Heatclient_MacOS_2.9.0.zip)
-  - Linux [Heatclient_Linux_2.9.0.zip](https://github.com/Heat-Ledger-Ltd/heat-ui/releases/download/v2.9.0/Heatclient_Linux_2.9.0.zip)
+  - Windows [Heatclient_Setup_3.0.0.exe](https://github.com/Heat-Ledger-Ltd/heat-ui/releases/download/v3.0.0/Heatclient_Setup_3.0.0.exe)
+  - OSX [Heatclient_MacOS_3.0.0.zip](https://github.com/Heat-Ledger-Ltd/heat-ui/releases/download/v3.0.0/Heatclient_MacOS_3.0.0.zip)
+  - Linux [Heatclient_Linux_3.0.0.zip](https://github.com/Heat-Ledger-Ltd/heat-ui/releases/download/v3.0.0/Heatclient_Linux_3.0.0.zip)
 
 ### Application Settings
 
@@ -180,7 +180,7 @@ Ethereum is supported in these ways:
   3. Through support for the binary Ethereum ABI protocol we can inspect and visualize raw Ethereum transactions (ERC20 details)
 
 ```
-Note! HEAT private keys are also BIP44 compatible seeds, see https://github.com/bitcoin/bips/blob/master/bip-0044.mediawiki. What this means is that the same seed that gives you access to your HEAT account (the 12 words phrase) also gives you access to any number of derived Bitcoin addresses.
+Note! HEAT private keys (except for early versions) are also BIP44 compatible seeds, see https://github.com/bitcoin/bips/blob/master/bip-0044.mediawiki. What this means is that the same seed that gives you access to your HEAT account (the 12 words phrase) also gives you access to any number of derived Bitcoin addresses.
 ```
 
 Ethereum private keys can be added to the wallet in the exact same way as we can add Bitcoin private keys. Please see [the section on bitcoin](#bitcoin) for how to do that.
