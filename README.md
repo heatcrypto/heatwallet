@@ -1,12 +1,12 @@
-## Get started with HEAT Wallet 3.0.0
+## Get started with HEAT Wallet 3.1.0
 
-Current latest version 3.0.0, with heatledger 3.0.0
+Current latest version 3.1.0, with heatledger 3.1.0
 
-July 2019 | Provided to you by the developers of Heat Ledger Ltd - creators of the HEAT cryptocurrency.
+Oktober 2019 | Provided to you by the developers of HEAT - creators of the HEAT cryptocurrency.
 
-We are proud to present you with version 3.0.0 of the Desktop HEAT Wallet.
+We are proud to present you with version 3.1.0 of the Desktop HEAT Wallet.
 
-Your fully functional wallet for HEAT, Bitcoin, FIMK, NXT, ARDOR and Ethereum (with partial ERC20 support). Experimental IOTA support.
+Your fully functional wallet for HEAT, Bitcoin, Litecoin, Bitcoincash, FIMK, NXT, ARDOR and Ethereum (with partial ERC20 support). Experimental IOTA support.
 
 - with integrated HEAT Asset Exchange
 - with integrated HEAT block explorer
@@ -58,15 +58,15 @@ Linux users download the zip file and extract to a location of your choice. Run 
 
 HEAT Wallet (full version - includes HEAT p2p server)
 
-  - Windows [Heatwallet_Setup_3.0.0.exe](https://github.com/Heat-Ledger-Ltd/heatwallet/releases/download/v3.0.0/Heatwallet_Setup_3.0.0.exe)
-  - OSX [Heatwallet_MacOS_3.0.0.zip](https://github.com/Heat-Ledger-Ltd/heatwallet/releases/download/v2.9.0/Heatwallet_MacOS_3.0.0.zip)
-  - Linux [Heatwallet_Linux_3.0.0.zip](https://github.com/Heat-Ledger-Ltd/heatwallet/releases/download/v3.0.0/Heatwallet_Linux_3.0.0.zip)
+  - Windows [Heatwallet_Setup_3.1.0.exe](https://github.com/heatcrypto/heatwallet/releases/download/v3.1.0/Heatwallet_Setup_3.1.0.exe)
+  - OSX [Heatwallet_MacOS_3.1.0.zip](https://github.com/heatcrypto/heatwallet/releases/download/v3.1.0/Heatwallet_MacOS_3.1.0.zip)
+  - Linux [Heatwallet_Linux_3.1.0.zip](https://github.com/heatcrypto/heatwallet/releases/download/v3.1.0/Heatwallet_Linux_3.1.0.zip)
 
 HEAT Client (light version)
 
-  - Windows [Heatclient_Setup_3.0.0.exe](https://github.com/Heat-Ledger-Ltd/heat-ui/releases/download/v3.0.0/Heatclient_Setup_3.0.0.exe)
-  - OSX [Heatclient_MacOS_3.0.0.zip](https://github.com/Heat-Ledger-Ltd/heat-ui/releases/download/v3.0.0/Heatclient_MacOS_3.0.0.zip)
-  - Linux [Heatclient_Linux_3.0.0.zip](https://github.com/Heat-Ledger-Ltd/heat-ui/releases/download/v3.0.0/Heatclient_Linux_3.0.0.zip)
+  - Windows [Heatclient_Setup_3.1.0.exe](https://github.com/heatcrypto/heat-ui/releases/download/v3.1.0/Heatclient_Setup_3.1.0.exe)
+  - OSX [Heatclient_MacOS_3.1.0.zip](https://github.com/heatcrypto/heat-ui/releases/download/v3.1.0/Heatclient_MacOS_3.1.0.zip)
+  - Linux [Heatclient_Linux_3.1.0.zip](https://github.com/heatcrypto/heat-ui/releases/download/v3.1.0/Heatclient_Linux_3.1.0.zip)
 
 ### Application Settings
 
@@ -121,7 +121,7 @@ Within seconds after creating your account you will see that your address exists
 It is very important that you safely backup your private keys. To backup your keys consider these options.
 
   1. Write down your key(s) (HEAT keys are human readable 12 word phrases, perfect for writing down)
-  2. Store key in paper wallet and print to file ([look here for the HEAT paper wallet project](https://github.com/Heat-Ledger-Ltd/heat-paperwallet)) look for "Use existing key" option.
+  2. Store key in paper wallet and print to file ([look here for the HEAT paper wallet project](https://github.com/heatcrypto/heat-paperwallet)) look for "Use existing key" option.
   3. Download your wallet file containing all your keys in HEAT wallet file format (`heat.wallet`)
 
 To view your currently used private key or download the wallet file we visit the main menu.
