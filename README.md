@@ -18,9 +18,9 @@ With HEAT wallet you can create a HEAT master key giving you access to your free
 
 From your single HEAT master key you can create any number of Bitcoin or Ethereum addresses.
 
-Use HEAT wallet to send, receive and inspect your HEAT, Bitcoin, Ethereum and ERC20 tokens (partial support).
+Use HEAT wallet to send, receive and inspect your HEAT, Bitcoin, Ethereum, Litecoin, FIMK, NXT, ARDOR, Bitcoin Cash, IOTA and ERC20 tokens (partial support).
 
-HEAT wallet is a `real` wallet for HEAT, Bitcoin and Ethereum. Your funds are kept on your machine only your keys are with you and never leave your machine.
+HEAT wallet is a `real` wallet for the mentioned cryptos. Your funds are kept on your machine only, your keys are with you and never leave your machine unless you knowingly take steps to do that.
 
 ## Installation
 
@@ -104,7 +104,7 @@ When leasing your balance to a pool operator.
 
 ## Create Your Account
 
-You need to provide a name for your account, select either public or private and enter a password which we use to encrypt your keys when we store them on your computer.
+You need to provide a name (email format) for your account. Select either public or private and enter a password, which we use to encrypt your keys with when we store them on your computer.
 
 ![Create HEAT account](https://i.imgur.com/B4dmUSz.gif)
 
