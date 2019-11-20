@@ -6,10 +6,10 @@ Oktober 2019 | Provided to you by the developers of HEAT - creators of the HEAT 
 
 We are proud to present you with version 3.1.0 of the Desktop HEAT Wallet.
 
-Your fully functional wallet for HEAT, Bitcoin, Litecoin, Bitcoincash, FIMK, NXT, ARDOR and Ethereum (with partial ERC20 support). Experimental IOTA support.
+Your fully functional wallet for HEAT, BTC, LTC, BCH, IOTA, FIMK, NXT, ARDOR and Ethereum, with partial ERC20 support.
 
 - with integrated HEAT Asset Exchange
-- with integrated HEAT block explorer
+- with integrated HEAT Block Explorer
 - with embeded HEAT p2p server
 
 ## Tldr;
