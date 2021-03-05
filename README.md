@@ -1,10 +1,10 @@
-## Get started with HEAT Wallet 3.1.0
+## Get started with HEAT Wallet 4.0.0
 
-Current latest version 3.1.0, with heatledger 3.1.0
+Current latest version 4.0.0, with heatledger 4.0.0
 
-Oktober 2019 | Provided to you by the developers of HEAT - creators of the HEAT cryptocurrency.
+March 2020 | Provided to you by the developers of HEAT - creators of the HEAT cryptocurrency.
 
-We are proud to present you with version 3.1.0 of the Desktop HEAT Wallet.
+We are proud to present you with version 4.0.0 of the Desktop HEAT Wallet.
 
 Your fully functional wallet for HEAT, BTC, LTC, BCH, IOTA, FIMK, NXT, ARDOR and Ethereum, with partial ERC20 support.
 
@@ -37,11 +37,10 @@ Our wallet desktop software is available in two flavors;
   1. HEAT Wallet - The full version (**with** HEAT cryptocurrency server, you can operate your own server node, be part of the p2p network and mine blocks)
   2. HEAT Client - The light version (fully functional except it does not come with the server)
 
-Both HEAT Wallet as well as HEAT Client are available for all major operating systems.
+Both HEAT Wallet as well as HEAT Client are available for these operating systems.
 
   1. Windows 7 to 10 (64bit machines only)
-  2. Apple Mac OSX - minimum version is MacOS 10.9
-  3. Linux (64bit machines only)
+  2. Linux (64bit machines only)
       1. Ubuntu 12.04 and newer
       2. Fedora 21 (should work)
       3. Debian 8 (should work)
@@ -50,23 +49,19 @@ On Windows we have the easy installer, simply download and open the installer.
 
 ![Windows installer at work](https://i.imgur.com/gnxyESf.gif)
 
-Mac OSX users download a zip file which you can open and find inside the HEAT App, simply drag the application to your task bar or desktop. Double click the HEAT icon to start the application.
-
 Linux users download the zip file and extract to a location of your choice. Run the executable in the installation directory by double clicking or execute on the command line.
 
 ### Downloads
 
 HEAT Wallet (full version - includes HEAT p2p server)
 
-  - Windows [Heatwallet_Setup_3.1.0.exe](https://github.com/heatcrypto/heatwallet/releases/download/v3.1.0/Heatwallet_Setup_3.1.0.exe)
-  - OSX [Heatwallet_MacOS_3.1.0.zip](https://github.com/heatcrypto/heatwallet/releases/download/v3.1.0/Heatwallet_MacOS_3.1.0.zip)
-  - Linux [Heatwallet_Linux_3.1.0.zip](https://github.com/heatcrypto/heatwallet/releases/download/v3.1.0/Heatwallet_Linux_3.1.0.zip)
+  - Windows [Heatwallet_Setup_4.0.0.exe](https://github.com/heatcrypto/heatwallet/releases/download/v4.0.0/Heatwallet_Setup_4.0.0.exe)
+  - Linux [Heatwallet_Linux_4.0.0.zip](https://github.com/heatcrypto/heatwallet/releases/download/v4.0.0/Heatwallet_Linux_4.0.0.zip)
 
 HEAT Client (light version)
 
-  - Windows [Heatclient_Setup_3.1.0.exe](https://github.com/heatcrypto/heat-ui/releases/download/v3.1.0/Heatclient_Setup_3.1.0.exe)
-  - OSX [Heatclient_MacOS_3.1.0.zip](https://github.com/heatcrypto/heat-ui/releases/download/v3.1.0/Heatclient_MacOS_3.1.0.zip)
-  - Linux [Heatclient_Linux_3.1.0.zip](https://github.com/heatcrypto/heat-ui/releases/download/v3.1.0/Heatclient_Linux_3.1.0.zip)
+  - Windows [Heatclient_Setup_4.0.0.exe](https://github.com/heatcrypto/heat-ui/releases/download/v4.0.0/Heatclient_Setup_4.0.0.exe)
+  - Linux [Heatclient_Linux_4.0.0.zip](https://github.com/heatcrypto/heat-ui/releases/download/v4.0.0/Heatclient_Linux_4.0.0.zip)
 
 ### Application Settings
 
