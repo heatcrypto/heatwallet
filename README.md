@@ -1,10 +1,10 @@
-## Get started with HEAT Wallet 4.0.0
+## Get started with HEAT Wallet 4.0.1
 
-Current latest version 4.0.0, with heatledger 4.0.0
+Current latest version 4.0.1, with heatledger 4.0.1
 
 March 2020 | Provided to you by the developers of HEAT - creators of the HEAT cryptocurrency.
 
-We are proud to present you with version 4.0.0 of the Desktop HEAT Wallet.
+We are proud to present you with version 4.0.1 of the Desktop HEAT Wallet.
 
 Your fully functional wallet for HEAT, BTC, LTC, BCH, IOTA, FIMK, NXT, ARDOR and Ethereum, with partial ERC20 support.
 
