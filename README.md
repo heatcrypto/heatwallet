@@ -2,7 +2,7 @@
 
 Current latest version 4.1.0, with heatledger 4.1.1
 
-June 2020 | Provided to you by the developers of HEAT - creators of the HEAT cryptocurrency.
+June 2021 | Provided to you by the developers of HEAT - creators of the HEAT cryptocurrency.
 
 We are proud to present you with version 4.1.0 of the Desktop HEAT Wallet.
 
