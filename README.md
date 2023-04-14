@@ -1,10 +1,32 @@
+We are proud to present you with version 4.3.0 of the Desktop HEAT Wallet.
+
+## New features
+
+- Allow to find account by private name
+- Purging u2u messages
+
+## Changes
+
+- Add lease info on account home page
+- Update list of STUN servers
+- Update WebRTC lib
+- Failover url switcher for fimk service 
+- Aggregate multiple U2U messages received in short time into one UI popup
+- Purge messages on server side
+
+## Bug fixes and optimisations
+
+- Fix handling server health checking
+- Fix ETH, BTC seed validation
+- Fix scrolling on Login page
+- Fix formatting ETH token amount
+- Fix removing file on server when message is delivered but file is not delivered
+
 ## Get started with HEAT Wallet 4.3.0
 
 Current latest version 4.3.0, with heatledger 4.2.0
 
 April 2023 | Provided to you by the developers of HEAT - creators of the HEAT cryptocurrency.
-
-We are proud to present you with version 4.3.0 of the Desktop HEAT Wallet.
 
 Your fully functional wallet for HEAT, BTC, LTC, BCH, IOTA, FIMK, NXT, ARDOR and Ethereum, with partial ERC20 support.
 
