@@ -55,13 +55,13 @@ Linux users download the zip file and extract to a location of your choice. Run 
 
 HEAT Wallet (full version - includes HEAT p2p server)
 
-  - Windows [Heatwallet_Setup_4.0.0.exe](https://github.com/heatcrypto/heatwallet/releases/download/v4.0.0/Heatwallet_Setup_4.0.0.exe)
-  - Linux [Heatwallet_Linux_4.0.0.zip](https://github.com/heatcrypto/heatwallet/releases/download/v4.0.0/Heatwallet_Linux_4.0.0.zip)
+  - Windows [Heatwallet_Setup_4.3.0.exe](https://github.com/heatcrypto/heatwallet/releases/download/v4.3.0/Heatwallet_Setup_4.3.0.exe)
+  - Linux [Heatwallet_Linux_4.3.0.zip](https://github.com/heatcrypto/heatwallet/releases/download/v4.3.0/Heatwallet_Linux_4.3.0.zip)
 
 HEAT Client (light version)
 
-  - Windows [Heatclient_Setup_4.0.0.exe](https://github.com/heatcrypto/heat-ui/releases/download/v4.0.0/Heatclient_Setup_4.0.0.exe)
-  - Linux [Heatclient_Linux_4.0.0.zip](https://github.com/heatcrypto/heat-ui/releases/download/v4.0.0/Heatclient_Linux_4.0.0.zip)
+  - Windows [Heatclient_Setup_4.3.0.exe](https://github.com/heatcrypto/heat-ui/releases/download/v4.3.0/Heatclient_Setup_4.3.0.exe)
+  - Linux [Heatclient_Linux_4.3.0.zip](https://github.com/heatcrypto/heat-ui/releases/download/v4.3.0/Heatclient_Linux_4.3.0.zip)
 
 ### Application Settings
 
