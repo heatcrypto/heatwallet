@@ -1,32 +1,32 @@
-We are proud to present you with version 4.3.0 of the Desktop HEAT Wallet.
+We are proud to present you with version 4.4.0 of the Desktop HEAT Wallet.
 
 ## New features
 
-- Allow to find account by private name
-- Purging u2u messages
+- Migrate crypto addresses to encrypted format
+- Reminder to save backup of updates crypto wallet on exit app
+- Add Peer Network page displaying live state of server peers
+- Upgrade manage of btc fees in the Sending BTC
+- Display raw transaction bytes in the dialog Send BTC
 
 ## Changes
 
-- Add lease info on account home page
-- Update list of STUN servers
-- Update WebRTC lib
-- Failover url switcher for fimk service 
-- Aggregate multiple U2U messages received in short time into one UI popup
-- Purge messages on server side
+- Upgrade wallet backup file format
+- Add api key for currency provider services
 
 ## Bug fixes and optimisations
 
-- Fix handling server health checking
-- Fix ETH, BTC seed validation
-- Fix scrolling on Login page
-- Fix formatting ETH token amount
-- Fix removing file on server when message is delivered but file is not delivered
+- Fix import crypto addresses into wallet
+- Fix displaying crypto balances of addresses
+- Fix usage of cached asset info
+- Fix BTC Sending for case error on getting recipient balance
+- Fix deposit target address
+- Fix switching to local server in the desktop app
 
-## Get started with HEAT Wallet 4.3.0
+## Get started with HEAT Wallet 4.4.0
 
-Current latest version 4.3.0, with heatledger 4.2.0
+Current latest version 4.4.0, with heatledger 4.3.0
 
-April 2023 | Provided to you by the developers of HEAT - creators of the HEAT cryptocurrency.
+April 2024 | Provided to you by the developers of HEAT - creators of the HEAT cryptocurrency.
 
 Your fully functional wallet for HEAT, BTC, LTC, BCH, IOTA, FIMK, NXT, ARDOR and Ethereum, with partial ERC20 support.
 
@@ -56,20 +56,20 @@ For other platforms please look here http://www.oracle.com/technetwork/java/java
 
 Our wallet desktop software is available in two flavors;
 
-  1. HEAT Wallet - The full version (**with** HEAT cryptocurrency server, you can operate your own server node, be part of the p2p network and mine blocks)
-  2. HEAT Client - The light version (fully functional except it does not come with the server)
+1. HEAT Wallet - The full version (**with** HEAT cryptocurrency server, you can operate your own server node, be part of the p2p network and mine blocks)
+2. HEAT Client - The light version (fully functional except it does not come with the server)
 
 Both HEAT Wallet as well as HEAT Client are available for these operating systems.
 
-  1. Windows 7 to 10 (64bit machines only)
-  2. Linux (64bit machines only)
-      1. Ubuntu 12.04 and newer
-      2. Fedora 21 (should work)
-      3. Debian 8 (should work)
+1. Windows 7 to 11 (64bit machines only)
+2. Linux (64bit machines only)
+    1. Ubuntu 12.04 and newer
+    2. Fedora 21 (should work)
+    3. Debian 8 (should work)
 
 On Windows we have the easy installer, simply download and open the installer.
 
-![Windows installer at work](https://i.imgur.com/gnxyESf.gif)
+![Windows installer at work](`https://i.imgur.com/gnxyESf.gif`)
 
 Linux users download the zip file and extract to a location of your choice. Run the executable in the installation directory by double clicking or execute on the command line.
 
@@ -77,13 +77,13 @@ Linux users download the zip file and extract to a location of your choice. Run 
 
 HEAT Wallet (full version - includes HEAT p2p server)
 
-  - Windows [Heatwallet_Setup_4.3.0.exe](https://github.com/heatcrypto/heatwallet/releases/download/v4.3.0/Heatwallet_Setup_4.3.0.exe)
-  - Linux [Heatwallet_Linux_4.3.0.zip](https://github.com/heatcrypto/heatwallet/releases/download/v4.3.0/Heatwallet_Linux_4.3.0.zip)
+- Windows [Heatwallet_Setup_4.4.0.exe](https://github.com/heatcrypto/heatwallet/releases/download/v4.4.0/heatwallet_setup_4.4.0.exe)
+- Linux [Heatwallet_Linux_4.4.0.zip](https://github.com/heatcrypto/heatwallet/releases/download/v4.4.0/heatwallet_linux_4.4.0.zip)
 
 HEAT Client (light version)
 
-  - Windows [Heatclient_Setup_4.3.0.exe](https://github.com/heatcrypto/heat-ui/releases/download/v4.3.0/Heatclient_Setup_4.3.0.exe)
-  - Linux [Heatclient_Linux_4.3.0.zip](https://github.com/heatcrypto/heat-ui/releases/download/v4.3.0/Heatclient_Linux_4.3.0.zip)
+- Windows [Heatclient_Setup_4.4.0.exe](https://github.com/heatcrypto/heat-ui/releases/download/v4.4.0/heatclient_setup_4.4.0.exe)
+- Linux [Heatclient_Linux_4.4.0.zip](https://github.com/heatcrypto/heat-ui/releases/download/v4.4.0/heatclient_linux_4.4.0.zip)
 
 ### Application Settings
 
@@ -137,9 +137,9 @@ Within seconds after creating your account you will see that your address exists
 
 It is very important that you safely backup your private keys. To backup your keys consider these options.
 
-  1. Write down your key(s) (HEAT keys are human readable 12 word phrases, perfect for writing down)
-  2. Store key in paper wallet and print to file ([look here for the HEAT paper wallet project](https://github.com/heatcrypto/heat-paperwallet)) look for "Use existing key" option.
-  3. Download your wallet file containing all your keys in HEAT wallet file format (`heat.wallet`)
+1. Write down your key(s) (HEAT keys are human readable 12 word phrases, perfect for writing down)
+2. Store key in paper wallet and print to file ([look here for the HEAT paper wallet project](https://github.com/heatcrypto/heat-paperwallet)) look for "Use existing key" option.
+3. Download your wallet file containing all your keys in HEAT wallet file format (`heat.wallet`)
 
 To view your currently used private key or download the wallet file we visit the main menu.
 
@@ -155,8 +155,8 @@ With HEAT wallet you can store, transfer and explore your Bitcoins.
 
 Bitcoin is supported in two ways:
 
-  1. Through bitcoin private keys directly
-  2. Through BIP44 HEAT seeds
+1. Through bitcoin private keys directly
+2. Through BIP44 HEAT seeds
 
 ```
 Note! HEAT private keys are also BIP44 compatible seeds, see https://github.com/bitcoin/bips/blob/master/bip-0044.mediawiki. What this means is that the same seed that gives you access to your HEAT account (the 12 words phrase) also gives you access to any number of derived Bitcoin addresses.
@@ -182,9 +182,9 @@ Before sending Bitcoin you need to `select` the Bitcoin address you will be send
 
 ![Select bitcoin address](https://i.imgur.com/kMhv9e0.gif)
 
-Now you can send bitcoins.
+Now you can send bitcoins with selection of network fee and displayed transaction raw bytes.
 
-![Send Bitcoins](https://i.imgur.com/TKfY5UX.gif)
+![Send Bitcoins](https://imgur.com/YsufMUD.gif)
 
 ## Ethereum
 
@@ -192,9 +192,9 @@ With HEAT wallet you can store, transfer and explorer your Ethereum and ERC20 to
 
 Ethereum is supported in these ways:
 
-  1. Through ethereum private keys directly
-  2. Through BIP44 HEAT seeds
-  3. Through support for the binary Ethereum ABI protocol we can inspect and visualize raw Ethereum transactions (ERC20 details)
+1. Through ethereum private keys directly
+2. Through BIP44 HEAT seeds
+3. Through support for the binary Ethereum ABI protocol we can inspect and visualize raw Ethereum transactions (ERC20 details)
 
 ```
 Note! HEAT private keys (except for early versions) are also BIP44 compatible seeds, see https://github.com/bitcoin/bips/blob/master/bip-0044.mediawiki. What this means is that the same seed that gives you access to your HEAT account (the 12 words phrase) also gives you access to any number of derived Bitcoin addresses.
