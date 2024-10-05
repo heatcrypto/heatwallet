@@ -1,32 +1,29 @@
-We are proud to present you with version 4.4.0 of the Desktop HEAT Wallet.
+We are proud to present you with version 4.5.0 of the Desktop HEAT Wallet.
 
-## New features
+## Recent features
 
+- Assign memo (Payment Message) to ETH/BTC transaction
+- View of Peers Network
+ [4.4.0] 
 - Migrate crypto addresses to encrypted format
 - Reminder to save backup of updates crypto wallet on exit app
 - Add Peer Network page displaying live state of server peers
-- Upgrade manage of btc fees in the Sending BTC
-- Display raw transaction bytes in the dialog Send BTC
-
-## Changes
-
-- Upgrade wallet backup file format
-- Add api key for currency provider services
-
+- Upgrade management of fees for BTC transfer
+- Display raw transaction bytes in the Send BTC dialog
+- 
 ## Bug fixes and optimisations
+- Fix handling http response in node environment
+- Fix websocket reconnection for subscribers
+- Fix messaging contacts refreshing on contact selection
+- Fix BTC sending: display response error on BTC broadcasting, fix recipient field on lost focus
+- Fix empty data on failover switching at app start
+- Fix messages purging when contact is not selected
 
-- Fix import crypto addresses into wallet
-- Fix displaying crypto balances of addresses
-- Fix usage of cached asset info
-- Fix BTC Sending for case error on getting recipient balance
-- Fix deposit target address
-- Fix switching to local server in the desktop app
+## Get started with HEAT Wallet 4.5.0
 
-## Get started with HEAT Wallet 4.4.0
+Current latest version 4.5.0, with heatledger 4.4.0
 
-Current latest version 4.4.0, with heatledger 4.3.0
-
-April 2024 | Provided to you by the developers of HEAT - creators of the HEAT cryptocurrency.
+October 2024 | Provided to you by the developers of HEAT - creators of the HEAT cryptocurrency.
 
 Your fully functional wallet for HEAT, BTC, LTC, BCH, IOTA, FIMK, NXT, ARDOR and Ethereum, with partial ERC20 support.
 
@@ -77,13 +74,13 @@ Linux users download the zip file and extract to a location of your choice. Run 
 
 HEAT Wallet (full version - includes HEAT p2p server)
 
-- Windows [Heatwallet_Setup_4.4.0.exe](https://github.com/heatcrypto/heatwallet/releases/download/v4.4.0/heatwallet_setup_4.4.0.exe)
-- Linux [Heatwallet_Linux_4.4.0.zip](https://github.com/heatcrypto/heatwallet/releases/download/v4.4.0/heatwallet_linux_4.4.0.zip)
+- Windows [Heatwallet_Setup_4.5.0.exe](https://github.com/heatcrypto/heatwallet/releases/download/v4.4.0/heatwallet_setup_4.5.0.exe)
+- Linux [Heatwallet_Linux_4.5.0.zip](https://github.com/heatcrypto/heatwallet/releases/download/v4.4.0/heatwallet_linux_4.5.0.zip)
 
 HEAT Client (light version)
 
-- Windows [Heatclient_Setup_4.4.0.exe](https://github.com/heatcrypto/heat-ui/releases/download/v4.4.0/heatclient_setup_4.4.0.exe)
-- Linux [Heatclient_Linux_4.4.0.zip](https://github.com/heatcrypto/heat-ui/releases/download/v4.4.0/heatclient_linux_4.4.0.zip)
+- Windows [Heatclient_Setup_4.5.0.exe](https://github.com/heatcrypto/heat-ui/releases/download/v4.5.0/heatclient_setup_4.5.0.exe)
+- Linux [Heatclient_Linux_4.5.0.zip](https://github.com/heatcrypto/heat-ui/releases/download/v4.4.0/heatclient_linux_4.5.0.zip)
 
 ### Application Settings
 
