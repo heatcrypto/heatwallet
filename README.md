@@ -2,15 +2,9 @@ We are proud to present you with version 4.5.0 of the Desktop HEAT Wallet.
 
 ## Recent features
 
-- Assign memo (Payment Message) to ETH/BTC transaction
+- Assign local / blockchain memo (Payment Message) to ETH/BTC transaction
 - View of Peers Network
- [4.4.0] 
-- Migrate crypto addresses to encrypted format
-- Reminder to save backup of updates crypto wallet on exit app
-- Add Peer Network page displaying live state of server peers
-- Upgrade management of fees for BTC transfer
-- Display raw transaction bytes in the Send BTC dialog
-- 
+
 ## Bug fixes and optimisations
 - Fix handling http response in node environment
 - Fix websocket reconnection for subscribers
