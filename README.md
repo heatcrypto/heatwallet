@@ -1,23 +1,51 @@
-We are proud to present you with version 4.5.0 of the Desktop HEAT Wallet.
+We are proud to present you with version 4.7.0 of the Desktop HEAT Wallet.
 
 ## Recent features
 
-- Assign local / blockchain memo (Payment Message) to ETH/BTC transaction
-- View of Peers Network
-
+- Staged Sending BTC
+- Staged Sending ETH
+- Ability send BTC raw transaction bytes made in 3rd party service
+- Add support for BTC Segwit address (P2SH)
+- Add feature Sign Bitcoin Message
+- Add feature Sign Ethereum Message
+- Ability usage of alternative ETH service for transaction broadcasting
+- Display public key for new (not used) HEAT account
+- Sending HEAT message to new (not used) HEAT account
+- Add importing raw wallet data
+- Add table view for HEAT transaction and HEAT block 
+- Display table and json view for eth address
+- Caching BTC account transaction list 
+- Display cached BTC balance (offline) on top bar 
+- Ability to enter ETH transaction nonce if it was not resolved (build offline transaction) 
+- Add offline generation ETH transaction bytes 
+- Display unconfirmed balance for ETH, BTC
+- Display detailed info on clicking ETH addresses
+- Add filter "Display unlocked only" on Wallet page 
+- Display public key 
+- Removing obsolete pending eth transaction 
+- Display txn id in Payment Memo dialog
+- Open external browser instead of web view for links at page About in the desktop Heatwallet
+- Display cached eth, btc transaction list before loading actual list
+  
 ## Bug fixes and optimisations
-- Fix handling http response in node environment
-- Fix websocket reconnection for subscribers
-- Fix messaging contacts refreshing on contact selection
-- Fix BTC sending: display response error on BTC broadcasting, fix recipient field on lost focus
-- Fix empty data on failover switching at app start
-- Fix messages purging when contact is not selected
+- Fix transaction broadcasting when alternative provider is used
+- Fix compatibility between Ethereum data providers
+- Fix executing HHTP requests in the Electron environment
+- Fix socket topic subscription on first page load (the cause is peer page first loading)
+- Fix displaying BTC sending fee
+- Fix formatting currency BTC balance
+- Fix application double refreshing on first load
+- Fix displayed amount of BTC transaction with multiple outputs
+- Fix handling response on BTC broadcasting 
+- Fix closing Send ETH dialog on displaying transaction bytes dialog
+- Fix displaying ETH token without balance
+- Fix displaying api server port on Network peers page
 
-## Get started with HEAT Wallet 4.5.0
+## Get started with HEAT Wallet 4.7.0
 
-Current latest version 4.5.0, with heatledger 4.4.0
+Current latest version 4.7.0, with heatledger 4.4.1
 
-October 2024 | Provided to you by the developers of HEAT - creators of the HEAT cryptocurrency.
+April 2025 | Provided to you by the developers of HEAT - creators of the HEAT cryptocurrency.
 
 Your fully functional wallet for HEAT, BTC, LTC, BCH, IOTA, FIMK, NXT, ARDOR and Ethereum, with partial ERC20 support.
 
@@ -68,13 +96,13 @@ Linux users download the zip file and extract to a location of your choice. Run 
 
 HEAT Wallet (full version - includes HEAT p2p server)
 
-- Windows [Heatwallet_Setup_4.5.0.exe](https://github.com/heatcrypto/heatwallet/releases/download/v4.5.0/heatwallet_setup_4.5.0.exe)
-- Linux [Heatwallet_Linux_4.5.0.zip](https://github.com/heatcrypto/heatwallet/releases/download/v4.5.0/heatwallet_linux_4.5.0.zip)
+- Windows [Heatwallet_Setup_4.7.0.exe](https://github.com/heatcrypto/heatwallet/releases/download/v4.7.0/heatwallet_setup_4.7.0.exe)
+- Linux [Heatwallet_Linux_4.7.0.zip](https://github.com/heatcrypto/heatwallet/releases/download/v4.7.0/heatwallet_linux_4.7.0.zip)
 
 HEAT Client (light version)
 
-- Windows [Heatclient_Setup_4.5.0.exe](https://github.com/heatcrypto/heat-ui/releases/download/v4.5.0/heatclient_setup_4.5.0.exe)
-- Linux [Heatclient_Linux_4.5.0.zip](https://github.com/heatcrypto/heat-ui/releases/download/v4.5.0/heatclient_linux_4.5.0.zip)
+- Windows [Heatclient_Setup_4.7.0.exe](https://github.com/heatcrypto/heat-ui/releases/download/v4.7.0/heatclient_setup_4.7.0.exe)
+- Linux [Heatclient_Linux_4.7.0.zip](https://github.com/heatcrypto/heat-ui/releases/download/v4.7.0/heatclient_linux_4.7.0.zip)
 
 ### Application Settings
 
