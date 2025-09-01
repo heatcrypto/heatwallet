@@ -1,20 +1,26 @@
-We are proud to present you with version 4.8.0 of the Desktop HEAT Wallet.
+We are proud to present you with version 4.9.1 of the Desktop HEAT Wallet.
 
 ## Recent features
 
-- QR Code for BTC, ETH raw transaction bytes. 
-- Add separated dialog for fetching or pasting UTXO data (allows creation offline BTC transaction) 
-- Add starting splash window
-  
+- Add expression in quotes in wallet search
+- Approximate search in wallet is added
+- Add search in wallet for Payment memos, Transaction ids, HEAT assets, Currency tokens
+- Add ETH raw bytes parsed report
+- Allowed manually enter nonce on ETH sending
+- Add labels for currency entries in wallet
+
 ## Bug fixes and optimisations
-- Fix title of eth transaction detail info
-- Fix usage of btc address index for address imported from private key 
 
-## Get started with HEAT Wallet 4.8.0
+- Fix refreshing eth transaction list on new transaction
+- Removing obsolete eth pending transactions
+- Fix long pause on asset info dialog opening 
+- Fix caching nonce for ETH sending
 
-Current latest version 4.8.0, with heatledger 4.4.1
+## Get started with HEAT Wallet 4.9.1
 
-June 2025 | Provided to you by the developers of HEAT - creators of the HEAT cryptocurrency.
+Current latest version 4.9.1, with heatledger 4.4.1
+
+August 2025 | Provided to you by the developers of HEAT - creators of the HEAT cryptocurrency.
 
 Your fully functional wallet for HEAT, BTC, LTC, BCH, IOTA, FIMK, NXT, ARDOR and Ethereum, with partial ERC20 support.
 
@@ -65,13 +71,13 @@ Linux users download the zip file and extract to a location of your choice. Run 
 
 HEAT Wallet (full version - includes HEAT p2p server)
 
-- Windows [Heatwallet_Setup_4.8.0.exe](https://github.com/heatcrypto/heatwallet/releases/download/v4.8.0/heatwallet_setup_4.8.0.exe)
-- Linux [Heatwallet_Linux_4.8.0.zip](https://github.com/heatcrypto/heatwallet/releases/download/v4.8.0/heatwallet_linux_4.8.0.zip)
+- Windows [Heatwallet_Setup_4.9.1.exe](https://github.com/heatcrypto/heatwallet/releases/download/v4.9.1/heatwallet_setup_4.9.1.exe)
+- Linux [Heatwallet_Linux_4.9.1.zip](https://github.com/heatcrypto/heatwallet/releases/download/v4.9.1/heatwallet_linux_4.9.1.zip)
 
 HEAT Client (light version)
 
-- Windows [Heatclient_Setup_4.8.0.exe](https://github.com/heatcrypto/heat-ui/releases/download/v4.8.0/heatclient_setup_4.8.0.exe)
-- Linux [Heatclient_Linux_4.8.0.zip](https://github.com/heatcrypto/heat-ui/releases/download/v4.8.0/heatclient_linux_4.8.0.zip)
+- Windows [Heatclient_Setup_4.9.1.exe](https://github.com/heatcrypto/heat-ui/releases/download/v4.9.1/heatclient_setup_4.9.1.exe)
+- Linux [Heatclient_Linux_4.9.1.zip](https://github.com/heatcrypto/heat-ui/releases/download/v4.9.1/heatclient_linux_4.9.1.zip)
 
 ### Application Settings
 
