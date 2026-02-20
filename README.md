@@ -1,26 +1,40 @@
-We are proud to present you with version 4.9.3 of the Desktop HEAT Wallet.
+We are proud to present you with version 4.9.4 of the Desktop HEAT Wallet.
 
 ## Recent features
 
-- Add expression in quotes in wallet search
-- Approximate search in wallet is added
-- Add search in wallet for Payment memos, Transaction ids, HEAT assets, Currency tokens
-- Add ETH raw bytes parsed report
-- Allowed manually enter nonce on ETH sending
-- Add labels for currency entries in wallet
+- Highlighting external BTC, ETH addresses
+- Navigation for from/to ETH, BTC addresses
+- Remember and display creation date of wallet entry
+- Currency balance aggregated per account
+
+## Changes
+
+- Display HEAT account name as tooltip on account home page
+- Add button for clearing wallet search result 
+- Gas price validation on ETH transfer
+- Add account names to the dropdown list of accounts
 
 ## Bug fixes and optimisations
 
-- Fix refreshing eth transaction list on new transaction
-- Removing obsolete eth pending transactions
-- Fix long pause on asset info dialog opening 
-- Fix caching nonce for ETH sending
+- Fix updating account names
+- Fix blinking top left balance
+- Fix refreshing ETH home page on transferred
+- Fix usage of saved ETH, BTC balances
+- Fix refreshing HEAT, BTC, BCH, ETH balances
+- Fix refreshing ETH token balances
+- Fix auto import p2p messages on account unlocked
+- Fix format HEAT balance at top left
+- Fix search contact db function
+- Fix pending ETH transactions
+- Fix removal wallet entry
+- Fix the calculation fee: truncate value to scale of lowest unit
+- Add verification that the account name matches the account number
 
-## Get started with HEAT Wallet 4.9.3
+## Get started with HEAT Wallet 4.9.4
 
-Current latest version 4.9.3, with heatledger 4.4.2
+Current latest version 4.9.4, with heatledger 4.4.2
 
-August 2025 | Provided to you by the developers of HEAT - creators of the HEAT cryptocurrency.
+February 2026 | Provided to you by the developers of HEAT - creators of the HEAT cryptocurrency.
 
 Your fully functional wallet for HEAT, BTC, LTC, BCH, IOTA, FIMK, NXT, ARDOR and Ethereum, with partial ERC20 support.
 
@@ -71,13 +85,13 @@ Linux users download the zip file and extract to a location of your choice. Run 
 
 HEAT Wallet (full version - includes HEAT p2p server)
 
-- Windows [Heatwallet_Setup_4.9.3.exe](https://github.com/heatcrypto/heatwallet/releases/download/v4.9.3/heatwallet_setup_4.9.3.exe)
-- Linux [Heatwallet_Linux_4.9.3.zip](https://github.com/heatcrypto/heatwallet/releases/download/v4.9.3/heatwallet_linux_4.9.3.zip)
+- Windows [Heatwallet_Setup_4.9.4.exe](https://github.com/heatcrypto/heatwallet/releases/download/v4.9.4/heatwallet_setup_4.9.4.exe)
+- Linux [Heatwallet_Linux_4.9.4.zip](https://github.com/heatcrypto/heatwallet/releases/download/v4.9.4/heatwallet_linux_4.9.4.zip)
 
 HEAT Client (light version)
 
-- Windows [Heatclient_Setup_4.9.3.exe](https://github.com/heatcrypto/heat-ui/releases/download/v4.9.3/heatclient_setup_4.9.3.exe)
-- Linux [Heatclient_Linux_4.9.3.zip](https://github.com/heatcrypto/heat-ui/releases/download/v4.9.3/heatclient_linux_4.9.3.zip)
+- Windows [Heatclient_Setup_4.9.4.exe](https://github.com/heatcrypto/heat-ui/releases/download/v4.9.4/heatclient_setup_4.9.4.exe)
+- Linux [Heatclient_Linux_4.9.4.zip](https://github.com/heatcrypto/heat-ui/releases/download/v4.9.4/heatclient_linux_4.9.4.zip)
 
 ### Application Settings
 
