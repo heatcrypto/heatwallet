@@ -1,4 +1,4 @@
-We are proud to present you with version 4.9.4 of the Desktop HEAT Wallet.
+We are proud to present you with version 4.9.5 of the Desktop HEAT Wallet.
 
 ## Recent features
 
@@ -30,9 +30,9 @@ We are proud to present you with version 4.9.4 of the Desktop HEAT Wallet.
 - Fix the calculation fee: truncate value to scale of lowest unit
 - Add verification that the account name matches the account number
 
-## Get started with HEAT Wallet 4.9.4
+## Get started with HEAT Wallet 4.9.5
 
-Current latest version 4.9.4, with heatledger 4.4.2
+Current latest version 4.9.5, with heatledger 4.4.2
 
 February 2026 | Provided to you by the developers of HEAT - creators of the HEAT cryptocurrency.
 
@@ -85,13 +85,13 @@ Linux users download the zip file and extract to a location of your choice. Run 
 
 HEAT Wallet (full version - includes HEAT p2p server)
 
-- Windows [Heatwallet_Setup_4.9.4.exe](https://github.com/heatcrypto/heatwallet/releases/download/v4.9.4/heatwallet_setup_4.9.4.exe)
-- Linux [Heatwallet_Linux_4.9.4.zip](https://github.com/heatcrypto/heatwallet/releases/download/v4.9.4/heatwallet_linux_4.9.4.zip)
+- Windows [Heatwallet_Setup_4.9.5.exe](https://github.com/heatcrypto/heatwallet/releases/download/v4.9.5/heatwallet_setup_4.9.5.exe)
+- Linux [Heatwallet_Linux_4.9.5.zip](https://github.com/heatcrypto/heatwallet/releases/download/v4.9.5/heatwallet_linux_4.9.5.zip)
 
 HEAT Client (light version)
 
-- Windows [Heatclient_Setup_4.9.4.exe](https://github.com/heatcrypto/heat-ui/releases/download/v4.9.4/heatclient_setup_4.9.4.exe)
-- Linux [Heatclient_Linux_4.9.4.zip](https://github.com/heatcrypto/heat-ui/releases/download/v4.9.4/heatclient_linux_4.9.4.zip)
+- Windows [Heatclient_Setup_4.9.5.exe](https://github.com/heatcrypto/heat-ui/releases/download/v4.9.5/heatclient_setup_4.9.5.exe)
+- Linux [Heatclient_Linux_4.9.5.zip](https://github.com/heatcrypto/heat-ui/releases/download/v4.9.5/heatclient_linux_4.9.5.zip)
 
 ### Application Settings
 
